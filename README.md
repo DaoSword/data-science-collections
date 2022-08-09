@@ -8,6 +8,7 @@ Collection of learning materials and resources about deep learning.
 * [Books](#Books)
 * [Courses](#Courses)
 * [Libraries](#Libraries)
+* [Tutorials](#Tutorials)
 
 ## Blogs
 
@@ -26,3 +27,9 @@ Collection of learning materials and resources about deep learning.
 * [Auto-PyTorch](https://github.com/automl/Auto-PyTorch)
   
   * Automatic architecture search and hyperparameter optimization for PyTorch
+
+## Tutorials
+
+* [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
+  
+  * Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch.
