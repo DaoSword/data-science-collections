@@ -7,6 +7,7 @@ Collection of learning materials and resources about deep learning.
 * [Blogs](#Blogs)
 * [Books](#Books)
 * [Courses](#Courses)
+* [Libraries](#Libraries)
 
 ## Blogs
 
@@ -19,3 +20,9 @@ Collection of learning materials and resources about deep learning.
 ## Courses
 
 * [UvA Deep Learning Course](https://uvadlc.github.io/)
+
+## Libraries
+
+* [Auto-PyTorch](https://github.com/automl/Auto-PyTorch)
+  
+  * Automatic architecture search and hyperparameter optimization for PyTorch
