@@ -6,6 +6,7 @@ Collection of learning materials and resources about deep learning.
 
 * [Blogs](#Blogs)
 * [Books](#Books)
+* [Courses](#Courses)
 
 ## Blogs
 
@@ -14,3 +15,7 @@ Collection of learning materials and resources about deep learning.
 ## Books
 
 * [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai)
+
+## Courses
+
+* [UvA Deep Learning Course](https://uvadlc.github.io/)
