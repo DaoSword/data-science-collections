@@ -17,8 +17,11 @@ Collection of learning materials and resources about deep learning.
 ## Books
 
 * [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai)
+  
   * The second edition of `Deep Learning Interviews` is home to hundreds of fully-solved problems, from a wide range of key topics in AI.
+
 * [Deep Learning with PyTorch Lightning](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch-Lightning)
+  
   * Getting Started with PyTorch Lightning, Published by Packt.
 
 ## Courses
@@ -26,6 +29,8 @@ Collection of learning materials and resources about deep learning.
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
 
 * [UvA Deep Learning Course](https://uvadlc.github.io/)
+
+* [Learn PyTorch for Deep Learning: Zero to Mastery](https://www.learnpytorch.io/)
 
 ## Libraries
 
@@ -36,8 +41,6 @@ Collection of learning materials and resources about deep learning.
 * [Catalyst](https://github.com/catalyst-team/catalyst)
   
   * `Catalyst` is a PyTorch framework for Deep Learning Research and Development. 
-  
-  * 
 
 ## Tutorials
 
