@@ -30,6 +30,12 @@ Collection of learning materials and resources about deep learning.
   
   * Automatic architecture search and hyperparameter optimization for PyTorch
 
+* [Catalyst](https://github.com/catalyst-team/catalyst)
+  
+  * `Catalyst` is a PyTorch framework for Deep Learning Research and Development. 
+  
+  * 
+
 ## Tutorials
 
 * [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
