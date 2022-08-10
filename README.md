@@ -20,6 +20,8 @@ Collection of learning materials and resources about deep learning.
 
 ## Courses
 
+* [Practical Deep Learning for Coders](https://course.fast.ai/)
+
 * [UvA Deep Learning Course](https://uvadlc.github.io/)
 
 ## Libraries
