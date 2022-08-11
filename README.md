@@ -32,6 +32,8 @@ Collection of learning materials and resources about deep learning.
 
 * [Learn PyTorch for Deep Learning: Zero to Mastery](https://www.learnpytorch.io/)
 
+* [Zero to Mastery Deep Learning with TensorFlow](https://dev.mrdbourke.com/tensorflow-deep-learning/)
+
 * [Stanford CS 25: Transformers United](https://web.stanford.edu/class/cs25/)
 
 ## Libraries
