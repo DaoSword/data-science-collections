@@ -16,6 +16,10 @@ Collection of learning materials and resources about deep learning.
 
 ## Books
 
+* MIT Deep Learning Book: [[Official HTML format](https://www.deeplearningbook.org/)] [[PDF format](https://github.com/janishar/mit-deep-learning-book-pdf)]
+  
+  * An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
+
 * [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai)
   
   * The second edition of `Deep Learning Interviews` is home to hundreds of fully-solved problems, from a wide range of key topics in AI.
