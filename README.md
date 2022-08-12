@@ -24,6 +24,10 @@ Collection of learning materials and resources about deep learning.
   
   * The second edition of `Deep Learning Interviews` is home to hundreds of fully-solved problems, from a wide range of key topics in AI.
 
+* [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
+  
+  * This book provides a complete and concise overview of the mathematical engineering of deep learning.
+
 * [Deep Learning with PyTorch Lightning](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch-Lightning)
   
   * Getting Started with PyTorch Lightning, Published by Packt.
