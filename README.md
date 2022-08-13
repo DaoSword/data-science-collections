@@ -20,6 +20,10 @@ Collection of learning materials and resources about deep learning.
   
   * An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
 
+* [Patterns, predictions, and actions: A story about machine learning](https://mlstory.org/)
+  
+  * This graduate textbook on machine learning tells a story of how patterns in data support predictions and consequential actions.
+
 * [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai)
   
   * The second edition of `Deep Learning Interviews` is home to hundreds of fully-solved problems, from a wide range of key topics in AI.
