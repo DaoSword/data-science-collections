@@ -8,6 +8,7 @@ Collection of learning materials and resources about deep learning.
 * [Books](#Books)
 * [Courses](#Courses)
 * [Libraries](#Libraries)
+* [Tools](#Tools)
 * [Tutorials](#Tutorials)
 
 ## Blogs
@@ -63,6 +64,12 @@ Collection of learning materials and resources about deep learning.
 * [Catalyst](https://github.com/catalyst-team/catalyst)
   
   * `Catalyst` is a PyTorch framework for Deep Learning Research and Development. 
+
+## Tools
+
+* [ML Visuals](https://github.com/dair-ai/ml-visuals)
+  
+  * `ML Visuals` contains figures and templates which you can reuse and customize to improve your scientific writing.
 
 ## Tutorials
 
