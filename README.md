@@ -40,6 +40,8 @@ Collection of learning materials and resources about deep learning.
   
   * This is a concise handbook of TensorFlow 2 based on Keras and Eager Execution mode, aiming to help developers with some basic machine learning and Python knowledge to get started with TensorFlow 2 quickly.
 
+* [How to eat TensorFlow2 in 30 days ?](https://jackiexiao.github.io/eat_tensorflow2_in_30_days/)
+
 ## Courses
 
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
