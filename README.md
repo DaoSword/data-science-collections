@@ -21,6 +21,10 @@ Collection of learning materials and resources about deep learning.
   
   * An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
 
+* [Dive into Deep Learning](https://d2l.ai/)
+  
+  * Interactive deep learning book with code, math, and discussions. Implemented with PyTorch, NumPy/MXNet, and TensorFlow
+
 * [Patterns, predictions, and actions: A story about machine learning](https://mlstory.org/)
   
   * This graduate textbook on machine learning tells a story of how patterns in data support predictions and consequential actions.
