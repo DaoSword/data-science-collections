@@ -8,6 +8,7 @@ Collection of learning materials and resources about deep learning.
 * [Books](#Books)
 * [Courses](#Courses)
 * [Libraries](#Libraries)
+* [Platforms](#Platforms)
 * [Tools](#Tools)
 * [Tutorials](#Tutorials)
 
@@ -70,6 +71,12 @@ Collection of learning materials and resources about deep learning.
 * [Catalyst](https://github.com/catalyst-team/catalyst)
   
   * `Catalyst` is a PyTorch framework for Deep Learning Research and Development. 
+
+## Platforms
+
+* [Deepnote](https://deepnote.com/)
+
+* [Nextjournal](https://nextjournal.com/home)
 
 ## Tools
 
