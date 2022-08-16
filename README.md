@@ -33,6 +33,8 @@ Collection of learning materials and resources about deep learning.
   
   * This book provides a complete and concise overview of the mathematical engineering of deep learning.
 
+* [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
+
 * [Deep Learning with PyTorch Lightning](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch-Lightning)
   
   * Getting Started with PyTorch Lightning, Published by Packt.
