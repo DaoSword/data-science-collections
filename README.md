@@ -1,6 +1,6 @@
-# Deep Learning Notes
+# Data Science Collections
 
-Collection of learning materials and resources about deep learning. 
+Collection of learning materials and resources about data science, machine learning, deep learning and other interesting fields.
 
 ## Table of Contents
 
@@ -18,6 +18,8 @@ Collection of learning materials and resources about deep learning.
 
 ## Books
 
+### Deep Learning
+
 * MIT Deep Learning Book: [[Official HTML format](https://www.deeplearningbook.org/)] [[PDF format](https://github.com/janishar/mit-deep-learning-book-pdf)]
   
   * An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
@@ -25,30 +27,33 @@ Collection of learning materials and resources about deep learning.
 * [Dive into Deep Learning](https://d2l.ai/)
   
   * Interactive deep learning book with code, math, and discussions. Implemented with PyTorch, NumPy/MXNet, and TensorFlow
+- [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai)
+  
+  - The second edition of `Deep Learning Interviews` is home to hundreds of fully-solved problems, from a wide range of key topics in AI.
+
+- [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
+  
+  - This book provides a complete and concise overview of the mathematical engineering of deep learning.
+
+- [Deep Learning with PyTorch Lightning](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch-Lightning)
+  
+  - Getting Started with PyTorch Lightning, Published by Packt.
+
+- [A Concise Handbook of TensorFlow 2](https://tf.wiki/)
+  
+  - This is a concise handbook of TensorFlow 2 based on Keras and Eager Execution mode, aiming to help developers with some basic machine learning and Python knowledge to get started with TensorFlow 2 quickly.
+
+- [How to eat TensorFlow2 in 30 days ?](https://jackiexiao.github.io/eat_tensorflow2_in_30_days/)
+
+### Machine Learning
 
 * [Patterns, predictions, and actions: A story about machine learning](https://mlstory.org/)
   
   * This graduate textbook on machine learning tells a story of how patterns in data support predictions and consequential actions.
 
-* [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai)
-  
-  * The second edition of `Deep Learning Interviews` is home to hundreds of fully-solved problems, from a wide range of key topics in AI.
-
-* [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
-  
-  * This book provides a complete and concise overview of the mathematical engineering of deep learning.
-
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 
-* [Deep Learning with PyTorch Lightning](https://github.com/PacktPublishing/Deep-Learning-with-PyTorch-Lightning)
-  
-  * Getting Started with PyTorch Lightning, Published by Packt.
-
-* [A Concise Handbook of TensorFlow 2](https://tf.wiki/)
-  
-  * This is a concise handbook of TensorFlow 2 based on Keras and Eager Execution mode, aiming to help developers with some basic machine learning and Python knowledge to get started with TensorFlow 2 quickly.
-
-* [How to eat TensorFlow2 in 30 days ?](https://jackiexiao.github.io/eat_tensorflow2_in_30_days/)
+* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 
 ## Courses
 
