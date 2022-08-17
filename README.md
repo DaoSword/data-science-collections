@@ -55,6 +55,8 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
+
 ## Courses
 
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
