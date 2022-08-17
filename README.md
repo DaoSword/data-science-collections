@@ -18,6 +18,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Books
 
+### Algorithms
+
+* [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) (by Jeff Erickson)
+
 ### Deep Learning
 
 * MIT Deep Learning Book: [[Official HTML format](https://www.deeplearningbook.org/)] [[PDF format](https://github.com/janishar/mit-deep-learning-book-pdf)]
