@@ -84,6 +84,14 @@ Collection of learning materials and resources about deep learning.
   
   * `ML Visuals` contains figures and templates which you can reuse and customize to improve your scientific writing.
 
+* [Prodigy](https://prodi.gy/)
+  
+  * `Prodigy` is a scriptable annotation tool so efficient that data scientists can do the annotation themselves, enabling a new level of rapid iteration.
+
+* [brat rapid annotation tool](http://brat.nlplab.org/)
+  
+  * `brat` is a web-based tool for text annotation.
+
 ## Tutorials
 
 * [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
