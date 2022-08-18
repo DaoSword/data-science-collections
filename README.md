@@ -108,3 +108,7 @@ Collection of learning materials and resources about data science, machine learn
 * [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
   
   * Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch.
+
+* [ML Showcase](https://ml-showcase.paperspace.com/)
+  
+  * A curated collection of interactive Machine Learning projects.
