@@ -49,6 +49,12 @@ Collection of learning materials and resources about data science, machine learn
 
 - [How to eat TensorFlow2 in 30 days ?](https://jackiexiao.github.io/eat_tensorflow2_in_30_days/)
 
+### Linear Algebra
+
+* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
+
+* [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
+
 ### Machine Learning
 
 * [Patterns, predictions, and actions: A story about machine learning](https://mlstory.org/)
