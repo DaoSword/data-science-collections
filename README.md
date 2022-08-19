@@ -67,6 +67,12 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 
+### Statistics
+
+* [Seeing Theory](https://seeing-theory.brown.edu/)
+  
+  * A visual introduction to probability and statistics.
+
 ## Courses
 
 ### Deep Learning
