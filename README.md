@@ -69,6 +69,8 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Courses
 
+### Deep Learning
+
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
 
 * [UvA Deep Learning Course](https://uvadlc.github.io/)
@@ -78,6 +80,10 @@ Collection of learning materials and resources about data science, machine learn
 * [Zero to Mastery Deep Learning with TensorFlow](https://dev.mrdbourke.com/tensorflow-deep-learning/)
 
 * [Stanford CS 25: Transformers United](https://web.stanford.edu/class/cs25/)
+
+### Statistics
+
+* [Statistical Rethinking (2022 Edition)](https://github.com/rmcelreath/stat_rethinking_2022)
 
 ## Libraries
 
