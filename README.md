@@ -130,3 +130,7 @@ Collection of learning materials and resources about data science, machine learn
 * [ML Showcase](https://ml-showcase.paperspace.com/)
   
   * A curated collection of interactive Machine Learning projects.
+
+* [nlp-tutorial](https://github.com/graykode/nlp-tutorial)
+  
+  * `nlp-tutorial` is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch.
