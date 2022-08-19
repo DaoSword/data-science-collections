@@ -87,6 +87,10 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Stanford CS 25: Transformers United](https://web.stanford.edu/class/cs25/)
 
+### Reinforcement Learning
+
+* [The Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
+
 ### Statistics
 
 * [Statistical Rethinking (2022 Edition)](https://github.com/rmcelreath/stat_rethinking_2022)
