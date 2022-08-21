@@ -67,6 +67,10 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 
+### Reinforcement Learning
+
+* [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)
+
 ### Statistics
 
 * [Seeing Theory](https://seeing-theory.brown.edu/)
