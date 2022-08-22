@@ -4,6 +4,7 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Table of Contents
 
+* [Articles](#Articles)
 * [Blogs](#Blogs)
 * [Books](#Books)
 * [Courses](#Courses)
@@ -12,9 +13,15 @@ Collection of learning materials and resources about data science, machine learn
 * [Tools](#Tools)
 * [Tutorials](#Tutorials)
 
+## Articles
+
+[PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
+
 ## Blogs
 
-* [PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
+* [Neptune Blog](https://neptune.ai/blog)
+
+* [Paperspace Blog](https://blog.paperspace.com/)
 
 ## Books
 
