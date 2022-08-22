@@ -90,6 +90,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Courses
 
+### Data Science
+
+* [The Open Source Data Science Masters](http://datasciencemasters.org/)
+
 ### Deep Learning
 
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
