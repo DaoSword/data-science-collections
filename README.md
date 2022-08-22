@@ -94,6 +94,7 @@ Collection of learning materials and resources about data science, machine learn
 ### Reinforcement Learning
 
 * [The Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
+* [Practical_RL](https://github.com/yandexdataschool/Practical_RL)
 
 ### Statistics
 
