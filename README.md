@@ -67,6 +67,10 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 
+### Natural Language Processing
+
+* [CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/)
+
 ### Reinforcement Learning
 
 * [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)
