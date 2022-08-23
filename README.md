@@ -21,6 +21,8 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Daniel Bourke](https://www.mrdbourke.com/)
 
+* [Jay Alammar](https://jalammar.github.io/)
+
 * [Neptune Blog](https://neptune.ai/blog)
 
 * [Paperspace Blog](https://blog.paperspace.com/)
