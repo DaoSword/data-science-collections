@@ -19,6 +19,8 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Blogs
 
+* [Daniel Bourke](https://www.mrdbourke.com/)
+
 * [Neptune Blog](https://neptune.ai/blog)
 
 * [Paperspace Blog](https://blog.paperspace.com/)
@@ -111,7 +113,9 @@ Collection of learning materials and resources about data science, machine learn
 ### Reinforcement Learning
 
 * [The Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
+
 * [Practical_RL](https://github.com/yandexdataschool/Practical_RL)
+
 * [REINFORCEMENT LEARNING COURSE AT ASU](http://web.mit.edu/dimitrib/www/RLbook.html)
 
 ### Statistics
