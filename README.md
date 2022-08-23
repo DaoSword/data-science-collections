@@ -23,6 +23,8 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Paperspace Blog](https://blog.paperspace.com/)
 
+* [Sebastian Ruder](https://ruder.io/)
+
 ## Books
 
 ### Algorithms
