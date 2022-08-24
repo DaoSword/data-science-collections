@@ -9,13 +9,14 @@ Collection of learning materials and resources about data science, machine learn
 * [Books](#Books)
 * [Courses](#Courses)
 * [Libraries](#Libraries)
+* [Papers](#Papers)
 * [Platforms](#Platforms)
 * [Tools](#Tools)
 * [Tutorials](#Tutorials)
 
 ## Articles
 
-[PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
+* [PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
 
 ## Blogs
 
@@ -145,6 +146,22 @@ Collection of learning materials and resources about data science, machine learn
 * [TensorFlow Decision Forests](https://github.com/tensorflow/decision-forests)
   
   * **`TensorFlow Decision Forests`** (**TF-DF**) is a collection of state-of-the-art algorithms for the training, serving and interpretation of **Decision Forest** models. The library is a collection of [Keras](https://keras.io/) models and supports classification, regression and ranking.
+
+## Papers
+
+### Deep Learning
+
+* [Stochastic Weight Averaging Revisited](https://arxiv.org/abs/2201.00519)
+  
+  * 3 Jan 2022, Hao Guo, et al.
+  
+  * [[Official Code](https://github.com/zjlab-ammi/pswa)]
+
+* [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407)
+  
+  * 14 Mar 2018, Pavel Izmailov, et al.
+  
+  * [[Official Code](https://github.com/timgaripov/swa)]
 
 ## Platforms
 
