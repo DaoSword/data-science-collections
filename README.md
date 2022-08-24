@@ -117,6 +117,8 @@ Collection of learning materials and resources about data science, machine learn
 
 * [CMU CS 11-747: Neural Networks for NLP (Spring 2021)](https://phontron.com/class/nn4nlp2021/)
 
+* [An introduction to Natural Language Processing (NLP) course](https://github.com/brianspiering/nlp-course)
+
 ### Reinforcement Learning
 
 * [The Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
