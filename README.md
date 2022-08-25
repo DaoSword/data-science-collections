@@ -155,6 +155,10 @@ Collection of learning materials and resources about data science, machine learn
 
 * [AllenNLP](https://github.com/allenai/allennlp)
 
+* [Simple Transformers](https://simpletransformers.ai/)
+  
+  * This library is based on the [Transformers](https://github.com/huggingface/transformers) library by HuggingFace. `Simple Transformers` lets you quickly train and evaluate Transformer models.
+
 ## Papers
 
 ### Deep Learning
