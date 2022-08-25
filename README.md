@@ -149,6 +149,12 @@ Collection of learning materials and resources about data science, machine learn
   
   * **`TensorFlow Decision Forests`** (**TF-DF**) is a collection of state-of-the-art algorithms for the training, serving and interpretation of **Decision Forest** models. The library is a collection of [Keras](https://keras.io/) models and supports classification, regression and ranking.
 
+### Natural Language Processing
+
+* [🤗 Transformers](https://github.com/huggingface/transformers)
+
+* [AllenNLP](https://github.com/allenai/allennlp)
+
 ## Papers
 
 ### Deep Learning
