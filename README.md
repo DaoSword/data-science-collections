@@ -155,9 +155,21 @@ Collection of learning materials and resources about data science, machine learn
 
 * [AllenNLP](https://github.com/allenai/allennlp)
 
+* [fastNLP](https://github.com/fastnlp/fastNLP)
+  
+  * A Modularized and Extensible NLP Framework.
+
+* [Kashgari](https://github.com/BrikerMan/Kashgari)
+  
+  * `Kashgari` is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
+
 * [Simple Transformers](https://simpletransformers.ai/)
   
   * This library is based on the [Transformers](https://github.com/huggingface/transformers) library by HuggingFace. `Simple Transformers` lets you quickly train and evaluate Transformer models.
+
+* [Stanza](https://stanfordnlp.github.io/stanza/)
+  
+  * `Stanza` is a collection of accurate and efficient tools for the linguistic analysis of many human languages.
 
 ## Papers
 
