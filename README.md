@@ -134,13 +134,11 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Libraries
 
+### Deep Learning
+
 * [Auto-PyTorch](https://github.com/automl/Auto-PyTorch)
   
   * Automatic architecture search and hyperparameter optimization for PyTorch.
-
-* [AutoX](https://github.com/4paradigm/AutoX)
-  
-  * `AutoX` is an efficient automl tool, which is mainly aimed at data mining tasks with tabular data.
 
 * [Catalyst](https://github.com/catalyst-team/catalyst)
   
@@ -148,13 +146,23 @@ Collection of learning materials and resources about data science, machine learn
 
 * [TensorFlow Decision Forests](https://github.com/tensorflow/decision-forests)
   
-  * **`TensorFlow Decision Forests`** (**TF-DF**) is a collection of state-of-the-art algorithms for the training, serving and interpretation of **Decision Forest** models. The library is a collection of [Keras](https://keras.io/) models and supports classification, regression and ranking.
+  * `TensorFlow Decision Forests` (TF-DF) is a collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models. The library is a collection of Keras models and supports classification, regression and ranking.
+
+### Machine Learning
+
+* [AutoX](https://github.com/4paradigm/AutoX)
+  
+  * `AutoX` is an efficient automl tool, which is mainly aimed at data mining tasks with tabular data.
 
 ### Natural Language Processing
 
 * [🤗 Transformers](https://github.com/huggingface/transformers)
 
 * [AllenNLP](https://github.com/allenai/allennlp)
+
+* [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
+  
+  * Pre-Training with Whole Word Masking for Chinese BERT
 
 * [fastNLP](https://github.com/fastnlp/fastNLP)
   
@@ -163,6 +171,8 @@ Collection of learning materials and resources about data science, machine learn
 * [Kashgari](https://github.com/BrikerMan/Kashgari)
   
   * `Kashgari` is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
+
+* [pyhanlp](https://hanlp.hankcs.com/)
 
 * [Simple Transformers](https://simpletransformers.ai/)
   
