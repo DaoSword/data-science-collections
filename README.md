@@ -11,6 +11,7 @@ Collection of learning materials and resources about data science, machine learn
 * [Libraries](#Libraries)
 * [Papers](#Papers)
 * [Platforms](#Platforms)
+* [Repositories](#Repositories)
 * [Tools](#Tools)
 * [Tutorials](#Tutorials)
 
@@ -192,6 +193,12 @@ Collection of learning materials and resources about data science, machine learn
 * [Deepnote](https://deepnote.com/)
 
 * [Nextjournal](https://nextjournal.com/home)
+
+## Repositories
+
+### Natural Language Processing
+
+* [NLP-progress](https://nlpprogress.com/)
 
 ## Tools
 
