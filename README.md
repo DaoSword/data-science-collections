@@ -21,6 +21,8 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Blogs
 
+* [Chris Albon](https://chrisalbon.com/)
+
 * [Daniel Bourke](https://www.mrdbourke.com/)
 
 * [Jay Alammar](https://jalammar.github.io/)
