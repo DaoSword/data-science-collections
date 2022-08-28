@@ -241,3 +241,7 @@ Collection of learning materials and resources about data science, machine learn
 * [nlp-tutorial](https://github.com/graykode/nlp-tutorial)
   
   * `nlp-tutorial` is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch.
+
+* [Neural Transfer Using PyTorch](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html)
+  
+  * This tutorial explains how to implement the [Neural-Style algorithm](https://arxiv.org/abs/1508.06576) developed by Leon A. Gatys, Alexander S. Ecker and Matthias Bethge.
