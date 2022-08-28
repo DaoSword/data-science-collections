@@ -112,6 +112,8 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Stanford CS 25: Transformers United](https://web.stanford.edu/class/cs25/)
 
+* [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
+
 ### Natural Language Processing
 
 * [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
