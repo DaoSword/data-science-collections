@@ -245,3 +245,7 @@ Collection of learning materials and resources about data science, machine learn
 * [Neural Transfer Using PyTorch](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html)
   
   * This tutorial explains how to implement the [Neural-Style algorithm](https://arxiv.org/abs/1508.06576) developed by Leon A. Gatys, Alexander S. Ecker and Matthias Bethge.
+
+* [A walkthrough of transformer architecture code](https://github.com/markriedl/transformer-walkthrough)
+  
+  * The notebook walks through a single forward pass of the Transformer architecture in pytorch.
