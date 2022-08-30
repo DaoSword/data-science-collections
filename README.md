@@ -204,6 +204,12 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Platforms
 
+### Coding
+
+* [HackerRank](https://www.hackerrank.com/)
+
+### Notebooks
+
 * [Deepnote](https://deepnote.com/)
 
 * [Nextjournal](https://nextjournal.com/home)
