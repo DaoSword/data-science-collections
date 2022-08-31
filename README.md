@@ -138,6 +138,12 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Libraries
 
+### Computer Vision
+
+* [Latent Diffusion](https://github.com/CompVis/latent-diffusion)
+  
+  * High-Resolution Image Synthesis with Latent Diffusion Models.
+
 ### Deep Learning
 
 * [Alpa](https://github.com/alpa-projects/alpa)
