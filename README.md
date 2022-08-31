@@ -140,6 +140,12 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Deep Learning
 
+* [Alpa](https://github.com/alpa-projects/alpa)
+  
+  * `Alpa` is a system for training and serving large-scale neural networks.
+  
+  * Demo: [Free, Unlimited OPT-175B Text Generation](https://opt.alpa.ai/)
+
 * [Auto-PyTorch](https://github.com/automl/Auto-PyTorch)
   
   * Automatic architecture search and hyperparameter optimization for PyTorch.
