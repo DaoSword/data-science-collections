@@ -229,6 +229,14 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Repositories
 
+* [Awesome](https://github.com/sindresorhus/awesome)
+  
+  * Awesome lists about all kinds of interesting topics.
+
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  
+  * Roadmap to becoming a developer in 2022.
+
 ### Natural Language Processing
 
 * [NLP-progress](https://nlpprogress.com/)
