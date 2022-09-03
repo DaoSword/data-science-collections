@@ -204,6 +204,12 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Papers
 
+#### Computer Vision
+
+* [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
+  
+  * 19 Jun 2020, Jonathan Ho, et al.
+
 ### Deep Learning
 
 * [Stochastic Weight Averaging Revisited](https://arxiv.org/abs/2201.00519)
