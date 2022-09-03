@@ -144,6 +144,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * High-Resolution Image Synthesis with Latent Diffusion Models.
 
+* [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
+  
+  * `Stable Diffusion` is a latent text-to-image diffusion model.
+
 ### Deep Learning
 
 * [Alpa](https://github.com/alpa-projects/alpa)
