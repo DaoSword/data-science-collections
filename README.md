@@ -96,7 +96,13 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Courses
 
+### Computer Science
+
+* [OSSU Computer Science](https://github.com/ossu/computer-science)
+
 ### Data Science
+
+* [OSSU Data Science](https://github.com/ossu/data-science)
 
 * [The Open Source Data Science Masters](http://datasciencemasters.org/)
 
@@ -204,7 +210,7 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Papers
 
-#### Computer Vision
+### Computer Vision
 
 * [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
   
