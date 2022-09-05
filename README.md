@@ -194,6 +194,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * A Modularized and Extensible NLP Framework.
 
+* [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple)
+  
+  * Python package to easily retrain OpenAI's GPT-2 text-generating model on new texts.
+
 * [Kashgari](https://github.com/BrikerMan/Kashgari)
   
   * `Kashgari` is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
