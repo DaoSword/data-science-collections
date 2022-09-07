@@ -108,6 +108,8 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Deep Learning
 
+* [Dive into Deep Learning (Chinese version)](https://courses.d2l.ai/zh-v2/) [[Course Notes](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes)]
+
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
 
 * [UvA Deep Learning Course](https://uvadlc.github.io/)
