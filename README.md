@@ -108,19 +108,21 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Deep Learning
 
+* [Deep Learning (PyTorch) - ND101 v7](https://github.com/udacity/deep-learning-v2-pytorch)
+
+* [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
+
 * [Dive into Deep Learning (Chinese version)](https://courses.d2l.ai/zh-v2/) [[Course Notes](https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes)]
-
-* [Practical Deep Learning for Coders](https://course.fast.ai/)
-
-* [UvA Deep Learning Course](https://uvadlc.github.io/)
 
 * [Learn PyTorch for Deep Learning: Zero to Mastery](https://www.learnpytorch.io/)
 
-* [Zero to Mastery Deep Learning with TensorFlow](https://dev.mrdbourke.com/tensorflow-deep-learning/)
+* [Practical Deep Learning for Coders](https://course.fast.ai/)
 
 * [Stanford CS 25: Transformers United](https://web.stanford.edu/class/cs25/)
 
-* [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
+* [UvA Deep Learning Course](https://uvadlc.github.io/)
+
+* [Zero to Mastery Deep Learning with TensorFlow](https://dev.mrdbourke.com/tensorflow-deep-learning/)
 
 ### Natural Language Processing
 
