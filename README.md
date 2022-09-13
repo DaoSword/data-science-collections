@@ -184,6 +184,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `AutoX` is an efficient automl tool, which is mainly aimed at data mining tasks with tabular data.
 
+* [SHAP](https://github.com/slundberg/shap)
+  
+  * **`SHAP` (SHapley Additive exPlanations)** is a game theoretic approach to explain the output of any machine learning model.
+
 ### Natural Language Processing
 
 * [🤗 Transformers](https://github.com/huggingface/transformers)
