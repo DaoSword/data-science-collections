@@ -184,6 +184,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `AutoX` is an efficient automl tool, which is mainly aimed at data mining tasks with tabular data.
 
+* [Evidently](https://github.com/evidentlyai/evidently)
+  
+  * `Evidently` helps analyze and track data and ML model quality throughout the model lifecycle.
+
 * [NGBoost](https://github.com/stanfordmlgroup/ngboost)
   
   * `NGBoost` is a Python library that implements Natural Gradient Boosting, as described in ["NGBoost: Natural Gradient Boosting for Probabilistic Prediction"](https://stanfordmlgroup.github.io/projects/ngboost/).
