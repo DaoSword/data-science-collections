@@ -150,6 +150,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Computer Vision
 
+* [ImageAI](https://github.com/OlafenwaMoses/ImageAI)
+  
+  * An open-source python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code.
+
 * [Latent Diffusion](https://github.com/CompVis/latent-diffusion)
   
   * High-Resolution Image Synthesis with Latent Diffusion Models.
