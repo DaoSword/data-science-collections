@@ -313,6 +313,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * A curated collection of interactive Machine Learning projects.
 
+* [Modern Convolutional Neural Network Architectures](https://github.com/Nyandwi/ModernConvNets)
+  
+  * Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras.
+
 * [nlp-tutorial](https://github.com/graykode/nlp-tutorial)
   
   * `nlp-tutorial` is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch.
