@@ -162,6 +162,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `Stable Diffusion` is a latent text-to-image diffusion model.
 
+* [stable-diffusion-tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow)
+  
+  * A Keras / Tensorflow implementation of Stable Diffusion.
+
 ### Deep Learning
 
 * [Alpa](https://github.com/alpa-projects/alpa)
@@ -236,11 +240,13 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Computer Vision
 
+* [Diffusion Models in Vision: A Survey](https://arxiv.org/abs/2209.04747)
+  
+  * 10 Sep 2022, Florinel-Alin Croitoru, et al.
+
 * [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
   
   * 19 Jun 2020, Jonathan Ho, et al.
-
-* [Diffusion Models in Vision: A Survey](https://arxiv.org/abs/2209.04747)
 
 ### Deep Learning
 
