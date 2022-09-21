@@ -240,6 +240,8 @@ Collection of learning materials and resources about data science, machine learn
   
   * 19 Jun 2020, Jonathan Ho, et al.
 
+* [Diffusion Models in Vision: A Survey](https://arxiv.org/abs/2209.04747)
+
 ### Deep Learning
 
 * [Stochastic Weight Averaging Revisited](https://arxiv.org/abs/2201.00519)
