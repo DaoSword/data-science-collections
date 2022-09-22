@@ -226,6 +226,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `Kashgari` is a production-level NLP Transfer learning framework built on top of tf.keras for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.
 
+* [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
+  
+  * `OpenNMT-py` is the PyTorch version of the OpenNMT project, an open-source (MIT) neural machine translation framework.
+
 * [pyhanlp](https://hanlp.hankcs.com/)
 
 * [Simple Transformers](https://simpletransformers.ai/)
