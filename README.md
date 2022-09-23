@@ -321,6 +321,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch.
 
+* [labml.ai Deep Learning Paper Implementations](https://nn.labml.ai/index.html)
+  
+  * This is a collection of simple PyTorch implementations of neural networks and related algorithms.
+
 * [ML Showcase](https://ml-showcase.paperspace.com/)
   
   * A curated collection of interactive Machine Learning projects.
