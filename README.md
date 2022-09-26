@@ -317,6 +317,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Tutorials
 
+* [A walkthrough of transformer architecture code](https://github.com/markriedl/transformer-walkthrough)
+  
+  - The notebook walks through a single forward pass of the Transformer architecture in pytorch.
+
 * [Getting-Things-Done-with-Pytorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch)
   
   * Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch.
@@ -333,14 +337,14 @@ Collection of learning materials and resources about data science, machine learn
   
   * Revisions and implementations of modern Convolutional Neural Networks architectures in TensorFlow and Keras.
 
-* [nlp-tutorial](https://github.com/graykode/nlp-tutorial)
-  
-  * `nlp-tutorial` is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch.
-
 * [Neural Transfer Using PyTorch](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html)
   
   * This tutorial explains how to implement the [Neural-Style algorithm](https://arxiv.org/abs/1508.06576) developed by Leon A. Gatys, Alexander S. Ecker and Matthias Bethge.
 
-* [A walkthrough of transformer architecture code](https://github.com/markriedl/transformer-walkthrough)
+* [nlp-tutorial](https://github.com/graykode/nlp-tutorial)
   
-  * The notebook walks through a single forward pass of the Transformer architecture in pytorch.
+  - `nlp-tutorial` is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch.
+
+* [Pytorch: how and when to use Module, Sequential, ModuleList and ModuleDict](https://github.com/FrancescoSaverioZuppichini/Pytorch-how-and-when-to-use-Module-Sequential-ModuleList-and-ModuleDict)
+  
+  * Effective way to share, reuse and break down the complexity of your models.
