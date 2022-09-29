@@ -293,6 +293,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * Roadmap to becoming a developer in 2022.
 
+* [Neural-Style-Transfer-Papers](https://github.com/ycjing/Neural-Style-Transfer-Papers)
+  
+  * Selected papers, corresponding codes and pre-trained models in the review paper "Neural Style Transfer: A Review".
+
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
   
   * Learn how to design large-scale systems.
