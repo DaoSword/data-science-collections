@@ -242,6 +242,11 @@ Collection of learning materials and resources about data science, machine learn
   
   * `Stanza` is a collection of accurate and efficient tools for the linguistic analysis of many human languages.
 
+### Reinforcement Learning
+
+* [FinRL](https://github.com/AI4Finance-Foundation/FinRL)
+  * `FinRL` is the first open-source framework to show the great potential of financial reinforcement learning.
+
 ## Papers
 
 ### Computer Vision
