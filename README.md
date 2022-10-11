@@ -278,7 +278,14 @@ Collection of learning materials and resources about data science, machine learn
 ### Coding
 
 * [HackerRank](https://www.hackerrank.com/)
+
 * [Zero To Mastery](https://zerotomastery.io/)
+
+### Models
+
+* [Modelverse](https://modelverse.cs.cmu.edu/)
+  
+  * `Modelverse` is a model sharing and search platform that contains a diverse set of deep generative models such as GANs, diffusion models, and autoregressive models.
 
 ### Notebooks
 
