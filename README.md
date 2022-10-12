@@ -251,6 +251,12 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Computer Vision
 
+* [VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://arxiv.org/abs/2209.11224)
+  
+  * 22 Sep 2022, Shuai Yang, et al.
+  
+  * [[Official Code](https://github.com/williamyang1991/VToonify)]
+
 * [Diffusion Models in Vision: A Survey](https://arxiv.org/abs/2209.04747)
   
   * 10 Sep 2022, Florinel-Alin Croitoru, et al.
