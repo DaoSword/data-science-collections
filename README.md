@@ -281,6 +281,12 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Platforms
 
+### Applications
+
+* [NovelAI](https://novelai.net/)
+  
+  * `NovelAI` is a monthly subscription service for AI-assisted authorship, storytelling, virtual companionship, or simply a GPT powered sandbox for your imagination.
+
 ### Coding
 
 * [HackerRank](https://www.hackerrank.com/)
