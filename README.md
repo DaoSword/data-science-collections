@@ -206,6 +206,12 @@ Collection of learning materials and resources about data science, machine learn
   
   * **`SHAP` (SHapley Additive exPlanations)** is a game theoretic approach to explain the output of any machine learning model.
 
+### Multimodal
+
+* [LAVIS](https://github.com/salesforce/LAVIS)
+  
+  * `LAVIS` is a Python deep learning library for LAnguage-and-VISion intelligence research and applications.
+
 ### Natural Language Processing
 
 * [🤗 Transformers](https://github.com/huggingface/transformers)
