@@ -267,6 +267,12 @@ Collection of learning materials and resources about data science, machine learn
   
   * 10 Sep 2022, Florinel-Alin Croitoru, et al.
 
+* [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)
+  
+  * 2 Sep 2022, Ling Yang, et al.
+  
+  * [[Official Code](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)]
+
 * [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
   
   * 19 Jun 2020, Jonathan Ho, et al.
