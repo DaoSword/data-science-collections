@@ -184,6 +184,12 @@ Collection of learning materials and resources about data science, machine learn
   
   * `Catalyst` is a PyTorch framework for Deep Learning Research and Development. 
 
+* [Colossal-AI](https://github.com/hpcaitech/ColossalAI)
+  
+  * `Colossal-AI` is a unified deep learning system for the big model era to make training and inference of large AI models efficient, easy, and scalable.
+  
+  * [[Service Demo](https://service.colossalai.org/)]
+
 * [TensorFlow Decision Forests](https://github.com/tensorflow/decision-forests)
   
   * `TensorFlow Decision Forests` (TF-DF) is a collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models. The library is a collection of Keras models and supports classification, regression and ranking.
