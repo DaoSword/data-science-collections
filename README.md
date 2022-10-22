@@ -297,6 +297,14 @@ Collection of learning materials and resources about data science, machine learn
   
   * [[Official Code](https://github.com/timgaripov/swa)]
 
+### Natural Language Processing
+
+* [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
+  
+  * 20 Oct 2022, Hyung Won Chung, et al.
+  
+  * [[Official Code](https://github.com/google-research/t5x)]
+
 ## Platforms
 
 ### Applications
