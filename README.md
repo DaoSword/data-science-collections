@@ -404,3 +404,7 @@ Collection of learning materials and resources about data science, machine learn
 * [Pytorch: how and when to use Module, Sequential, ModuleList and ModuleDict](https://github.com/FrancescoSaverioZuppichini/Pytorch-how-and-when-to-use-Module-Sequential-ModuleList-and-ModuleDict)
   
   * Effective way to share, reuse and break down the complexity of your models.
+
+* [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+  
+  * Master the command line, in one page.
