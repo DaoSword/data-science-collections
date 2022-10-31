@@ -313,6 +313,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `NovelAI` is a monthly subscription service for AI-assisted authorship, storytelling, virtual companionship, or simply a GPT powered sandbox for your imagination.
 
+* [Palette](https://palette.fm/)
+  
+  * Colorize your photos for free!
+
 ### Coding
 
 * [HackerRank](https://www.hackerrank.com/)
