@@ -152,6 +152,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Computer Vision
 
+* [Hawkeye](https://github.com/Hawkeye-FineGrained/Hawkeye)
+  
+  * `Hawkeye` is a unified deep learning based fine-grained image recognition toolbox built on PyTorch, which is designed for researchers and engineers.
+
 * [ImageAI](https://github.com/OlafenwaMoses/ImageAI)
   
   * An open-source python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code.
