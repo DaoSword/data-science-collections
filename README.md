@@ -194,6 +194,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * [[Service Demo](https://service.colossalai.org/)]
 
+* [OneFlow](https://github.com/Oneflow-Inc/oneflow/)
+  
+  * `OneFlow` is a deep learning framework designed to be user-friendly, scalable and efficient.
+
 * [TensorFlow Decision Forests](https://github.com/tensorflow/decision-forests)
   
   * `TensorFlow Decision Forests` (TF-DF) is a collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models. The library is a collection of Keras models and supports classification, regression and ranking.
