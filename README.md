@@ -313,6 +313,12 @@ Collection of learning materials and resources about data science, machine learn
   
   * [[Official Code](https://github.com/google-research/t5x)]
 
+### Reinforcement Learning
+
+* [Mastering the Game of Stratego with Model-Free Multiagent Reinforcement Learning](https://arxiv.org/abs/2206.15378)
+  
+  * 30 Jun 2022, Julien Perolat, et al.
+
 ## Platforms
 
 ### Applications
