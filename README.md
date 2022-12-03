@@ -271,6 +271,12 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Computer Vision
 
+* [DiffusionDet: Diffusion Model for Object Detection](https://arxiv.org/abs/2211.09788)
+  
+  * 17 Nov 2022, Shoufa Chen, et al.
+  
+  * [[Official Code](https://github.com/ShoufaChen/DiffusionDet)]
+
 * [VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://arxiv.org/abs/2209.11224)
   
   * 22 Sep 2022, Shuai Yang, et al.
