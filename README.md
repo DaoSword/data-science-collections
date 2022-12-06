@@ -299,6 +299,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Deep Learning
 
+* [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
+  
+  * 2 Dec 2022, Geoffrey Hinton
+
 * [Stochastic Weight Averaging Revisited](https://arxiv.org/abs/2201.00519)
   
   * 3 Jan 2022, Hao Guo, et al.
