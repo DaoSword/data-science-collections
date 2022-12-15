@@ -116,6 +116,8 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Learn PyTorch for Deep Learning: Zero to Mastery](https://www.learnpytorch.io/)
 
+* [Neural Networks: Zero to Hero (Andrej Karpathy)](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) [[Code](https://github.com/karpathy/nn-zero-to-hero)]
+
 * [Practical Deep Learning for Coders](https://course.fast.ai/)
 
 * [Stanford CS 25: Transformers United](https://web.stanford.edu/class/cs25/)
