@@ -279,6 +279,12 @@ Collection of learning materials and resources about data science, machine learn
   
   * [[Official Code](https://github.com/ShoufaChen/DiffusionDet)]
 
+* [MetaFormer Baselines for Vision](https://arxiv.org/abs/2210.13452)
+  
+  * 24 Oct 2022, Weihao Yu, et al.
+  
+  * [[Official Code](https://github.com/sail-sg/metaformer)]
+
 * [VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://arxiv.org/abs/2209.11224)
   
   * 22 Sep 2022, Shuai Yang, et al.
