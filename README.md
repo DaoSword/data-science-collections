@@ -224,6 +224,9 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Multimodal
 
+- [Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP)
+  
+  - Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation.
 * [LAVIS](https://github.com/salesforce/LAVIS)
   
   * `LAVIS` is a Python deep learning library for LAnguage-and-VISion intelligence research and applications.
