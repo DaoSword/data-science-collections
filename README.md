@@ -154,6 +154,9 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Computer Vision
 
+- [Core ML Stable Diffusion](https://github.com/apple/ml-stable-diffusion)
+  
+  - Run Stable Diffusion on Apple Silicon with Core ML.
 * [Hawkeye](https://github.com/Hawkeye-FineGrained/Hawkeye)
   
   * `Hawkeye` is a unified deep learning based fine-grained image recognition toolbox built on PyTorch, which is designed for researchers and engineers.
