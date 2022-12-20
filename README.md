@@ -329,6 +329,12 @@ Collection of learning materials and resources about data science, machine learn
   
   * [[Official Code](https://github.com/timgaripov/swa)]
 
+### Multimodal
+
+- [Towards artificial general intelligence via a multimodal foundation model](https://www.nature.com/articles/s41467-022-30761-2)
+  
+  - 2 Jun 2022, Nanyi Fei, et al.
+
 ### Natural Language Processing
 
 * [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
