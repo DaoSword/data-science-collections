@@ -407,6 +407,9 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Tools
 
+- [latexify](https://github.com/google/latexify_py)
+  
+  - `latexify` is a Python package to compile a fragment of Python source code to a corresponding LaTeX expression.
 * [ML Visuals](https://github.com/dair-ai/ml-visuals)
   
   * `ML Visuals` contains figures and templates which you can reuse and customize to improve your scientific writing.
