@@ -312,6 +312,12 @@ Collection of learning materials and resources about data science, machine learn
   
   * [[Official Code](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)]
 
+* [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
+  
+  * 11 Nov 2021, Kaiming He, et al.
+  
+  * [[Official Code](https://github.com/facebookresearch/mae)]
+
 * [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
   
   * 19 Jun 2020, Jonathan Ho, et al.
