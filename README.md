@@ -279,6 +279,11 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Computer Vision
 
+- [Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2212.09748)
+  
+  - 19 Dec 2022, William Peebles, Saining Xie
+  
+  - [[Official Code](https://github.com/facebookresearch/DiT)]
 * [DiffusionDet: Diffusion Model for Object Detection](https://arxiv.org/abs/2211.09788)
   
   * 17 Nov 2022, Shoufa Chen, et al.
