@@ -84,6 +84,8 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
 
+* [Mathematics for Machine Learning (Sebastian Raschka)](https://sebastianraschka.com/resources/math-for-ml/)
+
 ### Reinforcement Learning
 
 * [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)
