@@ -286,6 +286,12 @@ Collection of learning materials and resources about data science, machine learn
   - 19 Dec 2022, William Peebles, Saining Xie
   
   - [[Official Code](https://github.com/facebookresearch/DiT)]
+
+- [SinDiffusion: Learning a Diffusion Model from a Single Natural Image](https://arxiv.org/abs/2211.12445)
+  
+  - 22 Nov 2022, Weilun Wang, et al.
+  
+  - [[Official Code](https://github.com/weilunwang/sindiffusion)]
 * [DiffusionDet: Diffusion Model for Object Detection](https://arxiv.org/abs/2211.09788)
   
   * 17 Nov 2022, Shoufa Chen, et al.
