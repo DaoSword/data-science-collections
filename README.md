@@ -262,6 +262,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `OpenNMT-py` is the PyTorch version of the OpenNMT project, an open-source (MIT) neural machine translation framework.
 
+* [PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
+  
+  * Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM.
+
 * [pyhanlp](https://hanlp.hankcs.com/)
 
 * [Simple Transformers](https://simpletransformers.ai/)
