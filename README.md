@@ -1,5 +1,11 @@
 # Data Science Collections
 
+![GitHub last commit](https://img.shields.io/github/last-commit/DaoSword/data-science-collections?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DaoSword/data-science-collections?color=orange&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/DaoSword/data-science-collections?color=blueviolet&style=flat-square)
+![GitHub watchers](https://img.shields.io/github/watchers/DaoSword/data-science-collections?color=ff69b4&style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/DaoSword/data-science-collections?style=flat-square)
+
 Collection of learning materials and resources about data science, machine learning, deep learning and other interesting fields.
 
 ## Table of Contents
