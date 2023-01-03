@@ -360,6 +360,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Multimodal
 
+- [Abstract Visual Reasoning with Tangram Shapes](https://arxiv.org/abs/2211.16492)
+  
+  - 29 Nov 2022, Anya Ji, et al.
+
 - [Towards artificial general intelligence via a multimodal foundation model](https://www.nature.com/articles/s41467-022-30761-2)
   
   - 2 Jun 2022, Nanyi Fei, et al.
