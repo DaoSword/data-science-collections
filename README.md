@@ -185,6 +185,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * A Keras / Tensorflow implementation of Stable Diffusion.
 
+* [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
+  
+  * `Ultralytics YOLOv8`, developed by Ultralytics, is a cutting-edge, state-of-the-art (SOTA) model that builds upon the success of previous YOLO versions and introduces new features and improvements to further boost performance and flexibility.
+
 ### Deep Learning
 
 * [Alpa](https://github.com/alpa-projects/alpa)
