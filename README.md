@@ -435,6 +435,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * Roadmap to becoming a developer in 2022.
 
+* [nanoGPT](https://github.com/karpathy/nanoGPT)
+  
+  * The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
 * [Neural-Style-Transfer-Papers](https://github.com/ycjing/Neural-Style-Transfer-Papers)
   
   * Selected papers, corresponding codes and pre-trained models in the review paper "Neural Style Transfer: A Review".
