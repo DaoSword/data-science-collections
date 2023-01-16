@@ -295,6 +295,12 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Computer Vision
 
+- [ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders](https://arxiv.org/abs/2301.00808)
+  
+  - 2 Jan 2023, Sanghyun Woo, et al.
+  
+  - [[Official Code](https://github.com/facebookresearch/convnext-v2)]
+
 - [Scalable Diffusion Models with Transformers](https://arxiv.org/abs/2212.09748)
   
   - 19 Dec 2022, William Peebles, Saining Xie
