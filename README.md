@@ -215,6 +215,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `OneFlow` is a deep learning framework designed to be user-friendly, scalable and efficient.
 
+* [skorch](https://github.com/skorch-dev/skorch)
+  
+  * A scikit-learn compatible neural network library that wraps PyTorch.
+
 * [TensorFlow Decision Forests](https://github.com/tensorflow/decision-forests)
   
   * `TensorFlow Decision Forests` (TF-DF) is a collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models. The library is a collection of Keras models and supports classification, regression and ranking.
@@ -441,10 +445,6 @@ Collection of learning materials and resources about data science, machine learn
   
   * Roadmap to becoming a developer in 2022.
 
-* [nanoGPT](https://github.com/karpathy/nanoGPT)
-  
-  * The simplest, fastest repository for training/finetuning medium-sized GPTs.
-
 * [Neural-Style-Transfer-Papers](https://github.com/ycjing/Neural-Style-Transfer-Papers)
   
   * Selected papers, corresponding codes and pre-trained models in the review paper "Neural Style Transfer: A Review".
@@ -455,6 +455,9 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Natural Language Processing
 
+- [nanoGPT](https://github.com/karpathy/nanoGPT)
+  
+  - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 * [NLP-progress](https://nlpprogress.com/)
 
 ## Tools
