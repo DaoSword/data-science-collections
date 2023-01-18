@@ -233,6 +233,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `Evidently` helps analyze and track data and ML model quality throughout the model lifecycle.
 
+* [Hypernets](https://github.com/DataCanvasIO/Hypernets)
+  
+  * A General Automated Machine Learning framework to simplify the development of End-to-end AutoML toolkits in specific domains.
+
 * [NGBoost](https://github.com/stanfordmlgroup/ngboost)
   
   * `NGBoost` is a Python library that implements Natural Gradient Boosting, as described in ["NGBoost: Natural Gradient Boosting for Probabilistic Prediction"](https://stanfordmlgroup.github.io/projects/ngboost/).
