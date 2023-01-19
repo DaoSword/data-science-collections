@@ -189,6 +189,12 @@ Collection of learning materials and resources about data science, machine learn
   
   * `Ultralytics YOLOv8`, developed by Ultralytics, is a cutting-edge, state-of-the-art (SOTA) model that builds upon the success of previous YOLO versions and introduces new features and improvements to further boost performance and flexibility.
 
+### Data Science
+
+- [Polars](https://github.com/pola-rs/polars)
+  
+  - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+
 ### Deep Learning
 
 * [Alpa](https://github.com/alpa-projects/alpa)
