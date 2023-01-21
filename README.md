@@ -47,6 +47,9 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Deep Learning
 
+- [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
+  
+  - A playbook for systematically maximizing the performance of deep learning models.
 * MIT Deep Learning Book: [[Official HTML format](https://www.deeplearningbook.org/)] [[PDF format](https://github.com/janishar/mit-deep-learning-book-pdf)]
   
   * An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
