@@ -324,6 +324,12 @@ Collection of learning materials and resources about data science, machine learn
   
   - [[Official Code](https://github.com/facebookresearch/DiT)]
 
+- [FlexiViT: One Model for All Patch Sizes](https://arxiv.org/abs/2212.08013)
+  
+  - 15 Dec 2022, Lucas Beyer, et al.
+  
+  - [Official Code](https://github.com/google-research/big_vision)
+
 - [SinDiffusion: Learning a Diffusion Model from a Single Natural Image](https://arxiv.org/abs/2211.12445)
   
   - 22 Nov 2022, Weilun Wang, et al.
