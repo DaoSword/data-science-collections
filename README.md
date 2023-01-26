@@ -198,6 +198,10 @@ Collection of learning materials and resources about data science, machine learn
   
   - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 
+- [PyClustering](https://github.com/annoviko/pyclustering)
+  
+  - `pyclustering` is a Python, C++ data mining library (clustering algorithm, oscillatory networks, neural networks).
+
 ### Deep Learning
 
 * [Alpa](https://github.com/alpa-projects/alpa)
