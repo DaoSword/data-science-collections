@@ -27,6 +27,7 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Blogs
 
+- [Brandon Rohrer](https://e2eml.school/)
 * [Chris Albon](https://chrisalbon.com/)
 
 * [Daniel Bourke](https://www.mrdbourke.com/)
