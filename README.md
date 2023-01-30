@@ -465,9 +465,13 @@ Collection of learning materials and resources about data science, machine learn
   
   * A complete computer science study plan to become a software engineer.
 
-* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* [DeepClustering](https://github.com/zhoushengisnoob/DeepClustering)
   
-  * Roadmap to becoming a developer in 2022.
+  * Methods and Implements of Deep Clustering.
+
+* [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+* * Roadmap to becoming a developer in 2022.
 
 * [Neural-Style-Transfer-Papers](https://github.com/ycjing/Neural-Style-Transfer-Papers)
   
