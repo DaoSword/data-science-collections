@@ -84,17 +84,18 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Machine Learning
 
+- [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+
+- [Machine Learning in Finance: From Theory to Practice](https://github.com/mfrdixon/ML_Finance_Codes)
+
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+
+- [Mathematics for Machine Learning (Sebastian Raschka)](https://sebastianraschka.com/resources/math-for-ml/)
 * [Patterns, predictions, and actions: A story about machine learning](https://mlstory.org/)
   
   * This graduate textbook on machine learning tells a story of how patterns in data support predictions and consequential actions.
 
 * [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
-
-* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
-
-* [Mathematics for Machine Learning](https://mml-book.github.io/)
-
-* [Mathematics for Machine Learning (Sebastian Raschka)](https://sebastianraschka.com/resources/math-for-ml/)
 
 ### Reinforcement Learning
 
