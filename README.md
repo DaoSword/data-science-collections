@@ -440,6 +440,7 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Coding
 
+- [Exercism](https://exercism.org/)
 * [HackerRank](https://www.hackerrank.com/)
 
 * [Zero To Mastery](https://zerotomastery.io/)
