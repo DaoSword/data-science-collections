@@ -381,6 +381,11 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Deep Learning
 
+- [ClimaX: A foundation model for weather and climate](https://arxiv.org/abs/2301.10343)
+  
+  - 24 Jan 2023, Tung Nguyen, et al.
+  
+  - [[Official Code](https://github.com/microsoft/ClimaX)]
 * [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
   
   * 2 Dec 2022, Geoffrey Hinton
