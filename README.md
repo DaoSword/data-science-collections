@@ -253,6 +253,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * A General Automated Machine Learning framework to simplify the development of End-to-end AutoML toolkits in specific domains.
 
+* [LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML)
+  
+  * `LightAutoML` (LAMA) is an AutoML framework by Sber AI Lab.
+
 * [NGBoost](https://github.com/stanfordmlgroup/ngboost)
   
   * `NGBoost` is a Python library that implements Natural Gradient Boosting, as described in ["NGBoost: Natural Gradient Boosting for Probabilistic Prediction"](https://stanfordmlgroup.github.io/projects/ngboost/).
