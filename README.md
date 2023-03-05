@@ -122,6 +122,7 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Deep Learning
 
+- [Deep Learning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 * [Deep Learning (PyTorch) - ND101 v7](https://github.com/udacity/deep-learning-v2-pytorch)
 
 * [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
