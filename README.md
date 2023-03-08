@@ -425,6 +425,12 @@ Collection of learning materials and resources about data science, machine learn
   - 28 Dec 2022, Jonas Geiping, Tom Goldstein.
   
   - [[Official Code](https://github.com/jonasgeiping/cramming)]
+
+- [OPT-IML: Scaling Language Model Instruction Meta Learning through the Lens of Generalization](https://arxiv.org/abs/2212.12017)
+  
+  - 22 Dec 2022, Srinivasan Iyer, et al.
+  
+  - [[Official Code](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML)]
 * [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
   
   * 20 Oct 2022, Hyung Won Chung, et al.
