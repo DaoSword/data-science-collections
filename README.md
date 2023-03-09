@@ -228,6 +228,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * [[Service Demo](https://service.colossalai.org/)]
 
+* [DGL (Deep Graph Library)](https://github.com/dmlc/dgl)
+  
+  * `DGL` is an easy-to-use, high performance and scalable Python package for deep learning on graphs.
+
 * [OneFlow](https://github.com/Oneflow-Inc/oneflow/)
   
   * `OneFlow` is a deep learning framework designed to be user-friendly, scalable and efficient.
