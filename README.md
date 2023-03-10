@@ -289,6 +289,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * Pre-Training with Whole Word Masking for Chinese BERT
 
+* [ChatLLaMA](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama)
+  
+  * `ChatLLaMA` is a library that allows you to create hyper-personalized ChatGPT-like assistants using your own data and the least amount of compute possible.
+
 * [fastNLP](https://github.com/fastnlp/fastNLP)
   
   * A Modularized and Extensible NLP Framework.
