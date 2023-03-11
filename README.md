@@ -402,13 +402,19 @@ Collection of learning materials and resources about data science, machine learn
   - [[Official Code](https://github.com/microsoft/ClimaX)]
 * [The Forward-Forward Algorithm: Some Preliminary Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
   
-  * 2 Dec 2022, Geoffrey Hinton
+  * 02 Dec 2022, Geoffrey Hinton
 
 * [Stochastic Weight Averaging Revisited](https://arxiv.org/abs/2201.00519)
   
-  * 3 Jan 2022, Hao Guo, et al.
+  * 03 Jan 2022, Hao Guo, et al.
   
   * [[Official Code](https://github.com/zjlab-ammi/pswa)]
+
+* [FNet: Mixing Tokens with Fourier Transforms](https://arxiv.org/abs/2105.03824)
+  
+  * 09 May 2021, James Lee-Thorp, et al.
+  
+  * [[Official Code](https://github.com/google-research/google-research/tree/master/f_net)]
 
 * [Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407)
   
