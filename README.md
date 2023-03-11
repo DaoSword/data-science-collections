@@ -568,6 +568,10 @@ Collection of learning materials and resources about data science, machine learn
   
   - `nlp-tutorial` is a tutorial for who is studying NLP(Natural Language Processing) using Pytorch.
 
+* [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+  
+  * Guides, papers, lecture, and resources for prompt engineering.
+
 * [Pytorch: how and when to use Module, Sequential, ModuleList and ModuleDict](https://github.com/FrancescoSaverioZuppichini/Pytorch-how-and-when-to-use-Module-Sequential-ModuleList-and-ModuleDict)
   
   * Effective way to share, reuse and break down the complexity of your models.
