@@ -262,6 +262,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `LightAutoML` (LAMA) is an AutoML framework by Sber AI Lab.
 
+* [LightGBMLSS](https://github.com/StatMixedML/LightGBMLSS)
+  
+  * An extension of LightGBM to probabilistic forecasting.
+
 * [NGBoost](https://github.com/stanfordmlgroup/ngboost)
   
   * `NGBoost` is a Python library that implements Natural Gradient Boosting, as described in ["NGBoost: Natural Gradient Boosting for Probabilistic Prediction"](https://stanfordmlgroup.github.io/projects/ngboost/).
