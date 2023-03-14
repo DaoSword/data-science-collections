@@ -180,6 +180,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * An open-source python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code.
 
+* [ImaginAIry](https://github.com/brycedrennan/imaginAIry)
+  
+  * AI imagined images. Pythonic generation of stable diffusion images.
+
 * [Latent Diffusion](https://github.com/CompVis/latent-diffusion)
   
   * High-Resolution Image Synthesis with Latent Diffusion Models.
