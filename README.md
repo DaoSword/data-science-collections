@@ -116,6 +116,7 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Data Science
 
+- [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 * [OSSU Data Science](https://github.com/ossu/data-science)
 
 * [The Open Source Data Science Masters](http://datasciencemasters.org/)
