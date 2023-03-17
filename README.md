@@ -447,6 +447,12 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Natural Language Processing
 
+- [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
+  
+  - 15 Mar 2023, OpenAI
+  
+  - [[Official Code](https://github.com/openai/evals)]
+
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://arxiv.org/abs/2212.14034)
   
   - 28 Dec 2022, Jonas Geiping, Tom Goldstein.
