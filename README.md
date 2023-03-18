@@ -322,6 +322,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM.
 
+* [picoGPT](https://github.com/jaymody/picoGPT)
+  
+  * `picoGPT` is an unnecessarily tiny and minimal implementation of GPT-2 in plain NumPy.
+
 * [pyhanlp](https://hanlp.hankcs.com/)
 
 * [Simple Transformers](https://simpletransformers.ai/)
