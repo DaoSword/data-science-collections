@@ -241,6 +241,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `OneFlow` is a deep learning framework designed to be user-friendly, scalable and efficient.
 
+* [PyDPM](https://github.com/BoChenGroup/PyDPM)
+  
+  * A python library focuses on constructing Deep Probabilistic Models (DPMs).
+
 * [skorch](https://github.com/skorch-dev/skorch)
   
   * A scikit-learn compatible neural network library that wraps PyTorch.
