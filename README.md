@@ -275,6 +275,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * An extension of LightGBM to probabilistic forecasting.
 
+* [mljar-supervised](https://github.com/mljar/mljar-supervised)
+  
+  * The `mljar-supervised` is an Automated Machine Learning Python package that works with tabular data.
+
 * [NGBoost](https://github.com/stanfordmlgroup/ngboost)
   
   * `NGBoost` is a Python library that implements Natural Gradient Boosting, as described in ["NGBoost: Natural Gradient Boosting for Probabilistic Prediction"](https://stanfordmlgroup.github.io/projects/ngboost/).
