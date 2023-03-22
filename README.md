@@ -534,8 +534,12 @@ Collection of learning materials and resources about data science, machine learn
   * Methods and Implements of Deep Clustering.
 
 * [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+  
+  * Roadmap to becoming a developer in 2022.
 
-* * Roadmap to becoming a developer in 2022.
+* [Machine-Learning-101](https://github.com/muhammadanas0716/Machine-Learning-101)
+  
+  * Data Science, Machine Learning, and Deep Learning. Projects, Tutorials and Cheatsheets.
 
 * [Neural-Style-Transfer-Papers](https://github.com/ycjing/Neural-Style-Transfer-Papers)
   
