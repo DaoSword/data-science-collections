@@ -233,6 +233,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * [[Service Demo](https://service.colossalai.org/)]
 
+* [DeepTables](https://github.com/DataCanvasIO/DeepTables)
+  
+  * `DeepTables`(DT) is a easy-to-use toolkit that enables deep learning to unleash great power on tabular data.
+
 * [DGL (Deep Graph Library)](https://github.com/dmlc/dgl)
   
   * `DGL` is an easy-to-use, high performance and scalable Python package for deep learning on graphs.
