@@ -562,9 +562,17 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Tools
 
+- [brat rapid annotation tool](http://brat.nlplab.org/)
+  
+  - `brat` is a web-based tool for text annotation.
+
 - [latexify](https://github.com/google/latexify_py)
   
   - `latexify` is a Python package to compile a fragment of Python source code to a corresponding LaTeX expression.
+
+- [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
+  
+  - Documentation that simply works.
 * [ML Visuals](https://github.com/dair-ai/ml-visuals)
   
   * `ML Visuals` contains figures and templates which you can reuse and customize to improve your scientific writing.
@@ -572,10 +580,6 @@ Collection of learning materials and resources about data science, machine learn
 * [Prodigy](https://prodi.gy/)
   
   * `Prodigy` is a scriptable annotation tool so efficient that data scientists can do the annotation themselves, enabling a new level of rapid iteration.
-
-* [brat rapid annotation tool](http://brat.nlplab.org/)
-  
-  * `brat` is a web-based tool for text annotation.
 
 ## Tutorials
 
