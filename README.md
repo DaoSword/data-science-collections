@@ -92,6 +92,8 @@ Collection of learning materials and resources about data science, machine learn
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 - [Mathematics for Machine Learning (Sebastian Raschka)](https://sebastianraschka.com/resources/math-for-ml/)
+
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) [[PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)] [[Code](https://github.com/gerdm/prml)]
 * [Patterns, predictions, and actions: A story about machine learning](https://mlstory.org/)
   
   * This graduate textbook on machine learning tells a story of how patterns in data support predictions and consequential actions.
