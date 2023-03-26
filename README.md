@@ -547,6 +547,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * Data Science, Machine Learning, and Deep Learning. Projects, Tutorials and Cheatsheets.
 
+* [Must-read papers on Recommender System](https://github.com/hongleizhang/RSPapers)
+  
+  * A Curated List of Must-read Papers on Recommender System.
+
 * [Neural-Style-Transfer-Papers](https://github.com/ycjing/Neural-Style-Transfer-Papers)
   
   * Selected papers, corresponding codes and pre-trained models in the review paper "Neural Style Transfer: A Review".
