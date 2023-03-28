@@ -576,6 +576,10 @@ Collection of learning materials and resources about data science, machine learn
   
   - `Flutter` is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase.
 
+- [LangChain](https://github.com/hwchase17/langchain)
+  
+  - `LangChain` is a framework for developing applications powered by language models.
+
 - [latexify](https://github.com/google/latexify_py)
   
   - `latexify` is a Python package to compile a fragment of Python source code to a corresponding LaTeX expression.
