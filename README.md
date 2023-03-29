@@ -564,6 +564,10 @@ Collection of learning materials and resources about data science, machine learn
 - [nanoGPT](https://github.com/karpathy/nanoGPT)
   
   - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+
+- [notion-qa](https://github.com/hwchase17/notion-qa)
+  
+  - Ask questions to your Notion database in natural language.
 * [NLP-progress](https://nlpprogress.com/)
 
 ## Tools
