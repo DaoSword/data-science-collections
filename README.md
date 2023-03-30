@@ -576,6 +576,10 @@ Collection of learning materials and resources about data science, machine learn
   
   - `brat` is a web-based tool for text annotation.
 
+- [Computer Vision Annotation Tool (CVAT)](https://github.com/opencv/cvat)
+  
+  - `CVAT` is an interactive video and image annotation tool for computer vision.
+
 - [Flutter](https://github.com/flutter/flutter)
   
   - `Flutter` is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase.
