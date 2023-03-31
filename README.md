@@ -561,6 +561,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Natural Language Processing
 
+- [Chat-Your-Data](https://github.com/hwchase17/chat-your-data)
+  
+  - Create a ChatGPT like experience over your custom docs using [LangChain](https://github.com/hwchase17/langchain).
+
 - [nanoGPT](https://github.com/karpathy/nanoGPT)
   
   - The simplest, fastest repository for training/finetuning medium-sized GPTs.
