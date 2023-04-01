@@ -289,6 +289,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `NGBoost` is a Python library that implements Natural Gradient Boosting, as described in ["NGBoost: Natural Gradient Boosting for Probabilistic Prediction"](https://stanfordmlgroup.github.io/projects/ngboost/).
 
+* [PyCaret](https://pycaret.org/)
+  
+  * `PyCaret` is an open-source, low-code machine learning library in Python that automates machine learning workflows.
+
 * [SHAP](https://github.com/slundberg/shap)
   
   * **`SHAP` (SHapley Additive exPlanations)** is a game theoretic approach to explain the output of any machine learning model.
