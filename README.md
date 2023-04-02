@@ -565,6 +565,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Natural Language Processing
 
+- [chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+  
+  - Specialized ChatGPT extension for research work, optimized for academic paper proofreading experience.
+
 - [Chat-Your-Data](https://github.com/hwchase17/chat-your-data)
   
   - Create a ChatGPT like experience over your custom docs using [LangChain](https://github.com/hwchase17/langchain).
