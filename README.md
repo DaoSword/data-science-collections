@@ -363,9 +363,15 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Computer Vision
 
+- [Segment Anything](https://arxiv.org/abs/2304.02643)
+  
+  - 05 Apr 2023, Alexander Kirillov, et al.
+  
+  - [[Official Code](https://github.com/facebookresearch/segment-anything)] [[Demo](https://segment-anything.com/)]
+
 - [ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders](https://arxiv.org/abs/2301.00808)
   
-  - 2 Jan 2023, Sanghyun Woo, et al.
+  - 02 Jan 2023, Sanghyun Woo, et al.
   
   - [[Official Code](https://github.com/facebookresearch/convnext-v2)]
 
@@ -379,7 +385,7 @@ Collection of learning materials and resources about data science, machine learn
   
   - 15 Dec 2022, Lucas Beyer, et al.
   
-  - [Official Code](https://github.com/google-research/big_vision)
+  - [[Official Code](https://github.com/google-research/big_vision)]
 
 - [SinDiffusion: Learning a Diffusion Model from a Single Natural Image](https://arxiv.org/abs/2211.12445)
   
