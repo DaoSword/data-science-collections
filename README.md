@@ -265,6 +265,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `AutoX` is an efficient automl tool, which is mainly aimed at data mining tasks with tabular data.
 
+* [EvalML](https://evalml.alteryx.com/en/latest/)
+  
+  * `EvalML` is an AutoML library that builds, optimizes, and evaluates machine learning pipelines using domain-specific objective functions.
+
 * [Evidently](https://github.com/evidentlyai/evidently)
   
   * `Evidently` helps analyze and track data and ML model quality throughout the model lifecycle.
