@@ -512,6 +512,9 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Applications
 
+- [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
+  
+  - `Auto-GPT` is an experimental open-source application showcasing the capabilities of the GPT-4 language model.
 * [NovelAI](https://novelai.net/)
   
   * `NovelAI` is a monthly subscription service for AI-assisted authorship, storytelling, virtual companionship, or simply a GPT powered sandbox for your imagination.
