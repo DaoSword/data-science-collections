@@ -408,6 +408,12 @@ Collection of learning materials and resources about data science, machine learn
   
   * [[Official Code](https://github.com/sail-sg/metaformer)]
 
+* [Open-Vocabulary Semantic Segmentation with Mask-adapted CLIP](https://arxiv.org/abs/2210.04150)
+  
+  * 09 Oct 2022, Feng Liang, et al.
+  
+  * [[Official Code - OVSeg](https://github.com/facebookresearch/ov-seg)] [[Project Web](https://jeff-liangf.github.io/projects/ovseg/)] [[Demo](https://huggingface.co/spaces/facebook/ov-seg)]
+
 * [VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://arxiv.org/abs/2209.11224)
   
   * 22 Sep 2022, Shuai Yang, et al.
