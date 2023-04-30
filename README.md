@@ -17,6 +17,7 @@ Collection of learning materials and resources about data science, machine learn
 * [Libraries](#Libraries)
 * [Papers](#Papers)
 * [Platforms](#Platforms)
+* [Projects](#Projects)
 * [Repositories](#Repositories)
 * [Tools](#Tools)
 * [Tutorials](#Tutorials)
@@ -547,6 +548,10 @@ Collection of learning materials and resources about data science, machine learn
 * [Deepnote](https://deepnote.com/)
 
 * [Nextjournal](https://nextjournal.com/home)
+
+## Projects
+
+- [MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models](https://minigpt-4.github.io/)
 
 ## Repositories
 
