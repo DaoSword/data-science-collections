@@ -583,6 +583,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * Selected papers, corresponding codes and pre-trained models in the review paper "Neural Style Transfer: A Review".
 
+* [prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning)
+  
+  * An Open-Source Engineering Guide for Prompt-in-context-learning from EgoAlpha Lab.
+
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer)
   
   * Learn how to design large-scale systems.
