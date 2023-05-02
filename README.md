@@ -302,6 +302,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * **`SHAP` (SHapley Additive exPlanations)** is a game theoretic approach to explain the output of any machine learning model.
 
+* [TPOT](https://epistasislab.github.io/tpot/)
+  
+  * `TPOT` is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
+
 ### Multimodal
 
 - [Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP)
