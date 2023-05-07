@@ -274,6 +274,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `Evidently` helps analyze and track data and ML model quality throughout the model lifecycle.
 
+* [FLAML](https://github.com/microsoft/FLAML)
+  
+  * `FLAML` is a lightweight Python library for efficient automation of machine learning, including selection of models, hyperparameters, and other tunable choices of an application.
+
 * [Hypernets](https://github.com/DataCanvasIO/Hypernets)
   
   * A General Automated Machine Learning framework to simplify the development of End-to-end AutoML toolkits in specific domains.
