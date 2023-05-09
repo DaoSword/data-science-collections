@@ -333,6 +333,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `ChatLLaMA` is a library that allows you to create hyper-personalized ChatGPT-like assistants using your own data and the least amount of compute possible.
 
+* [DeepSpeed-Chat](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)
+  
+  * A fast, affordable, scalable and open system framework for enabling end-to-end Reinforcement Learning Human Feedback (RLHF) training experience to generate high-quality ChatGPT-style models at all scales.
+
 * [fastNLP](https://github.com/fastnlp/fastNLP)
   
   * A Modularized and Extensible NLP Framework.
