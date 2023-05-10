@@ -538,6 +538,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `NovelAI` is a monthly subscription service for AI-assisted authorship, storytelling, virtual companionship, or simply a GPT powered sandbox for your imagination.
 
+* [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
+  
+  * `OpenChatKit` provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications.
+
 * [Palette](https://palette.fm/)
   
   * Colorize your photos for free!
