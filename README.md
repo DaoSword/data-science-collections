@@ -386,6 +386,12 @@ Collection of learning materials and resources about data science, machine learn
   
   - [[Official Code](https://github.com/facebookresearch/segment-anything)] [[Demo](https://segment-anything.com/)]
 
+- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
+  
+  - 08 Mar 2023, Chenfei Wu, et al.
+  
+  - [[Official Code](https://github.com/microsoft/TaskMatrix)]
+
 - [ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders](https://arxiv.org/abs/2301.00808)
   
   - 02 Jan 2023, Sanghyun Woo, et al.
