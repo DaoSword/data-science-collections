@@ -540,6 +540,10 @@ Collection of learning materials and resources about data science, machine learn
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT)
   
   - `Auto-GPT` is an experimental open-source application showcasing the capabilities of the GPT-4 language model.
+
+- [GPT4All](https://github.com/nomic-ai/gpt4all)
+  
+  - An ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue.
 * [NovelAI](https://novelai.net/)
   
   * `NovelAI` is a monthly subscription service for AI-assisted authorship, storytelling, virtual companionship, or simply a GPT powered sandbox for your imagination.
