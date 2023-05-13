@@ -541,6 +541,10 @@ Collection of learning materials and resources about data science, machine learn
   
   - `Auto-GPT` is an experimental open-source application showcasing the capabilities of the GPT-4 language model.
 
+- [BELLE](https://github.com/LianjiaTech/BELLE)
+  
+  - The goal of this project is to promote the development of an open-source community for Chinese conversational large language models, with the vision of becoming an LLM Engine that can help everyone.
+
 - [GPT4All](https://github.com/nomic-ai/gpt4all)
   
   - An ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue.
