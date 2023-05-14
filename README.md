@@ -560,6 +560,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * Colorize your photos for free!
 
+* [Riffusion App](https://github.com/riffusion/riffusion-app)
+  
+  * `Riffusion` is an app for real-time music generation with stable diffusion.
+
 ### Coding
 
 - [Exercism](https://exercism.org/)
