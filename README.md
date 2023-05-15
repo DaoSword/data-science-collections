@@ -658,6 +658,10 @@ Collection of learning materials and resources about data science, machine learn
   
   - `CVAT` is an interactive video and image annotation tool for computer vision.
 
+- [ControlNet for Stable Diffusion WebUI](https://github.com/Mikubill/sd-webui-controlnet)
+  
+  - The WebUI extension for ControlNet and other injection-based SD controls.
+
 - [Flutter](https://github.com/flutter/flutter)
   
   - `Flutter` is Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop from a single codebase.
