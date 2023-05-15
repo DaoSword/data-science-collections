@@ -113,6 +113,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Courses
 
+### AIGC
+
+- [Learn Prompt](https://github.com/LearnPrompt/LearnPrompt)
+
 ### Computer Science
 
 * [OSSU Computer Science](https://github.com/ossu/computer-science)
