@@ -396,6 +396,12 @@ Collection of learning materials and resources about data science, machine learn
   
   - [[Official Code](https://github.com/microsoft/TaskMatrix)]
 
+- [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
+  
+  - 10 Feb 2023, Lvmin Zhang, et al.
+  
+  - [[Official Code - ControlNet](https://github.com/lllyasviel/ControlNet)]
+
 - [ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders](https://arxiv.org/abs/2301.00808)
   
   - 02 Jan 2023, Sanghyun Woo, et al.
