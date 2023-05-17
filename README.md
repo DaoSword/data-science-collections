@@ -514,6 +514,12 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Natural Language Processing
 
+- [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+  
+  - 31 Mar 2023, Wayne Xin Zhao, et al.
+  
+  - [[Official Code - LLMSurvey](https://github.com/RUCAIBox/LLMSurvey)]
+
 - [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
   
   - 15 Mar 2023, OpenAI
