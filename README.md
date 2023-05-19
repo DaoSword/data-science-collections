@@ -580,6 +580,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `Riffusion` is an app for real-time music generation with stable diffusion.
 
+* [StableStudio](https://github.com/Stability-AI/StableStudio)
+  
+  * `StableStudio` is [Stability AI](https://stability.ai/)'s official open-source variant of [DreamStudio](https://www.dreamstudio.ai/). It is a web-based application that allows users to create and edit generated images.
+
 ### Coding
 
 - [Exercism](https://exercism.org/)
