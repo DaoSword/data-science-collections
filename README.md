@@ -384,6 +384,12 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Computer Vision
 
+- [Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold](https://arxiv.org/abs/2305.10973)
+  
+  - 18 May 2023, Xingang Pan, et al.
+  
+  - [[Official Code - DragGAN](https://github.com/XingangPan/DragGAN)] [[Project Website](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)]
+
 - [Segment Anything](https://arxiv.org/abs/2304.02643)
   
   - 05 Apr 2023, Alexander Kirillov, et al.
