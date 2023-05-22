@@ -25,6 +25,8 @@ Collection of learning materials and resources about data science, machine learn
 ## Articles
 
 * [PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
+- [The Transformer Family](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
+
 - [What Is ChatGPT Doing ... and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 ## Blogs
