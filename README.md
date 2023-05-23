@@ -392,6 +392,12 @@ Collection of learning materials and resources about data science, machine learn
   
   - [[Official Code - DragGAN](https://github.com/XingangPan/DragGAN)] [[Project Website](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)]
 
+- [A Comprehensive Survey on Segment Anything Model for Vision and Beyond](https://arxiv.org/abs/2305.08196)
+  
+  - 14 May 2023, Chunhui Zhang, et al.
+  
+  - [[Official Code - Awesome Segment Anything](https://github.com/liliu-avril/Awesome-Segment-Anything)]
+
 - [Segment Anything](https://arxiv.org/abs/2304.02643)
   
   - 05 Apr 2023, Alexander Kirillov, et al.
