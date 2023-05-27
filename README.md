@@ -400,6 +400,12 @@ Collection of learning materials and resources about data science, machine learn
   
   - [[Official Code - Awesome Segment Anything](https://github.com/liliu-avril/Awesome-Segment-Anything)]
 
+- [SegGPT: Segmenting Everything In Context](https://arxiv.org/abs/2304.03284)
+  
+  - 06 Apr 2023, Xinlong Wang, et al.
+  
+  - [[Official Code - Painter & SegGPT Series](https://github.com/baaivision/Painter)] [[Demo](https://huggingface.co/spaces/BAAI/SegGPT)]
+
 - [Segment Anything](https://arxiv.org/abs/2304.02643)
   
   - 05 Apr 2023, Alexander Kirillov, et al.
