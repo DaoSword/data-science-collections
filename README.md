@@ -635,6 +635,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * Awesome lists about all kinds of interesting topics.
 
+* [Awesome Totally Open Chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt)
+  
+  * A list of totally open alternatives to ChatGPT.
+
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
   
   * A complete computer science study plan to become a software engineer.
