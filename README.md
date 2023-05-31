@@ -477,9 +477,15 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)
   
-  * 2 Sep 2022, Ling Yang, et al.
+  * 02 Sep 2022, Ling Yang, et al.
   
   * [[Official Code](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)]
+
+* [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
+  
+  * 10 Jan 2022, Zhuang Liu. et al.
+  
+  * [[Official Code - ConvNeXt](https://github.com/facebookresearch/ConvNeXt)]
 
 * [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
   
