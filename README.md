@@ -371,6 +371,10 @@ Collection of learning materials and resources about data science, machine learn
 
 * [pyhanlp](https://hanlp.hankcs.com/)
 
+* [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm)
+  
+  * Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
+
 * [Simple Transformers](https://simpletransformers.ai/)
   
   * This library is based on the [Transformers](https://github.com/huggingface/transformers) library by HuggingFace. `Simple Transformers` lets you quickly train and evaluate Transformer models.
