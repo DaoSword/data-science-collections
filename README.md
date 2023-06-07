@@ -383,6 +383,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `Stanza` is a collection of accurate and efficient tools for the linguistic analysis of many human languages.
 
+* [TigerBot](https://github.com/TigerResearch/TigerBot)
+  
+  * `TigerBot` is a multi-language and multitask LLM.
+
 ### Reinforcement Learning
 
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL)
