@@ -550,6 +550,12 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Natural Language Processing
 
+- ["Low-Resource" Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426/)
+  
+  - Jul 9, Zhiying Jiang, et al.
+  
+  - [[Official Code - npc_gzip](https://github.com/bazingagin/npc_gzip)]
+
 - [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
   
   - 31 Mar 2023, Wayne Xin Zhao, et al.
