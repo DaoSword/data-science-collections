@@ -290,6 +290,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * A General Automated Machine Learning framework to simplify the development of End-to-end AutoML toolkits in specific domains.
 
+* [imodels](https://csinva.io/imodels/)
+  
+  * Python package for concise, transparent, and accurate predictive modeling.
+
 * [LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML)
   
   * `LightAutoML` (LAMA) is an AutoML framework by Sber AI Lab.
