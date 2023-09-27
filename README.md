@@ -747,6 +747,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * `ML Visuals` contains figures and templates which you can reuse and customize to improve your scientific writing.
 
+* [Netron](https://github.com/lutzroeder/Netron)
+  
+  * `Netron` is a viewer for neural network, deep learning and machine learning models.
+
 * [Prodigy](https://prodi.gy/)
   
   * `Prodigy` is a scriptable annotation tool so efficient that data scientists can do the annotation themselves, enabling a new level of rapid iteration.
