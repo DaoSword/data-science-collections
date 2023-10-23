@@ -313,6 +313,10 @@ Collection of learning materials and resources about data science, machine learn
 * [PyCaret](https://pycaret.org/)
   
   * `PyCaret` is an open-source, low-code machine learning library in Python that automates machine learning workflows.
+ 
+* [River](https://github.com/online-ml/river)
+
+  * `River` is a Python library for online machine learning. It aims to be the most user-friendly library for doing machine learning on streaming data.
 
 * [SHAP](https://github.com/slundberg/shap)
   
