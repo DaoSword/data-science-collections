@@ -157,7 +157,7 @@ Collection of learning materials and resources about data science, machine learn
 
 * [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
 
-* [CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/)
+* [CS224U: Natural Language Understanding](https://web.stanford.edu/class/cs224u/) [[Video - Spring 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp)]
 
 * [CMU CS 11-747: Neural Networks for NLP (Spring 2021)](https://phontron.com/class/nn4nlp2021/)
 
