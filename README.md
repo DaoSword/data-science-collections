@@ -281,6 +281,10 @@ Collection of learning materials and resources about data science, machine learn
 * [Evidently](https://github.com/evidentlyai/evidently)
   
   * `Evidently` helps analyze and track data and ML model quality throughout the model lifecycle.
+ 
+* [Feature Engine](https://github.com/feature-engine/feature_engine)
+
+  * `Feature-engine` is a Python library with multiple transformers to engineer and select features for use in machine learning models.
 
 * [FLAML](https://github.com/microsoft/FLAML)
   
