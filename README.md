@@ -251,6 +251,10 @@ Collection of learning materials and resources about data science, machine learn
 * [DGL (Deep Graph Library)](https://github.com/dmlc/dgl)
   
   * `DGL` is an easy-to-use, high performance and scalable Python package for deep learning on graphs.
+ 
+* [Ensemble PyTorch](https://github.com/TorchEnsemble-Community/Ensemble-Pytorch)
+
+  * A unified ensemble framework for PyTorch to improve the performance and robustness of your deep learning model.
 
 * [OneFlow](https://github.com/Oneflow-Inc/oneflow/)
   
