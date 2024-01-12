@@ -716,6 +716,10 @@ Collection of learning materials and resources about data science, machine learn
 - [Chat-Your-Data](https://github.com/hwchase17/chat-your-data)
   
   - Create a ChatGPT like experience over your custom docs using [LangChain](https://github.com/hwchase17/langchain).
+ 
+- [gpt-fast](https://github.com/pytorch-labs/gpt-fast)
+
+  - Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
 
 - [nanoGPT](https://github.com/karpathy/nanoGPT)
   
