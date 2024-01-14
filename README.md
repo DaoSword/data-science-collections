@@ -214,6 +214,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Data Science
 
+- [Pandaral·lel](https://github.com/nalepae/pandarallel)
+
+  - `pandarallel` is a simple and efficient tool to parallelize Pandas operations on all available CPUs.
+
 - [Polars](https://github.com/pola-rs/polars)
   
   - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
