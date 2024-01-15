@@ -314,6 +314,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * An extension of LightGBM to probabilistic forecasting.
 
+* [Lime](https://github.com/marcotcr/lime)
+
+  * This project is about explaining what machine learning classifiers (or models) are doing.
+  
 * [mljar-supervised](https://github.com/mljar/mljar-supervised)
   
   * The `mljar-supervised` is an Automated Machine Learning Python package that works with tabular data.
