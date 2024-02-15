@@ -338,6 +338,10 @@ Collection of learning materials and resources about data science, machine learn
   
   * **`SHAP` (SHapley Additive exPlanations)** is a game theoretic approach to explain the output of any machine learning model.
 
+* [skfolio](https://github.com/skfolio/skfolio)
+
+  * `skfolio` is a Python library for portfolio optimization built on top of scikit-learn. It offers a unified interface and tools compatible with scikit-learn to build, fine-tune, and cross-validate portfolio models.
+
 * [TPOT](https://epistasislab.github.io/tpot/)
   
   * `TPOT` is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
