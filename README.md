@@ -418,7 +418,14 @@ Collection of learning materials and resources about data science, machine learn
 ### Reinforcement Learning
 
 * [FinRL](https://github.com/AI4Finance-Foundation/FinRL)
+
   * `FinRL` is the first open-source framework to show the great potential of financial reinforcement learning.
+
+### Statistics
+
+* [Pingouin](https://github.com/raphaelvallat/pingouin)
+
+  * `Pingouin` is an open-source statistical package written in Python 3 and based mostly on Pandas and NumPy.
 
 ## Papers
 
