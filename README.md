@@ -214,6 +214,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Data Science
 
+- [librosa](https://github.com/librosa/librosa)
+
+  - Python library for audio and music analysis.
+
 - [Pandaral·lel](https://github.com/nalepae/pandarallel)
 
   - `pandarallel` is a simple and efficient tool to parallelize Pandas operations on all available CPUs.
