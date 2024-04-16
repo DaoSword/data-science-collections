@@ -229,6 +229,10 @@ Collection of learning materials and resources about data science, machine learn
 - [PyClustering](https://github.com/annoviko/pyclustering)
   
   - `pyclustering` is a Python, C++ data mining library (clustering algorithm, oscillatory networks, neural networks).
+ 
+- [TimeSide](https://github.com/yomguy/TimeSide)
+
+  - `TimeSide` is a Python framework enabling low and high level audio analysis, imaging, transcoding, streaming and labelling.
 
 ### Deep Learning
 
