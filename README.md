@@ -431,6 +431,10 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Statistics
 
+* [ArviZ](https://github.com/arviz-devs/arviz)
+
+  * `ArviZ` is a Python package for exploratory analysis of Bayesian models.
+
 * [Pingouin](https://github.com/raphaelvallat/pingouin)
 
   * `Pingouin` is an open-source statistical package written in Python 3 and based mostly on Pandas and NumPy.
