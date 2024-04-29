@@ -195,6 +195,10 @@ Collection of learning materials and resources about data science, machine learn
 * [ImaginAIry](https://github.com/brycedrennan/imaginAIry)
   
   * AI imagined images. Pythonic generation of stable diffusion images.
+ 
+* [Kornia](https://github.com/kornia/kornia)
+
+  * `Kornia` is a differentiable computer vision library for PyTorch.
 
 * [Latent Diffusion](https://github.com/CompVis/latent-diffusion)
   
