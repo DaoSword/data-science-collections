@@ -237,6 +237,10 @@ Collection of learning materials and resources about data science, machine learn
 - [TimeSide](https://github.com/yomguy/TimeSide)
 
   - `TimeSide` is a Python framework enabling low and high level audio analysis, imaging, transcoding, streaming and labelling.
+ 
+- [Xorbits](https://github.com/xorbitsai/xorbits)
+
+  - `Xorbits` is an open-source computing framework that makes it easy to scale data science and machine learning workloads — from data preprocessing to tuning, training, and model serving.
 
 ### Deep Learning
 
