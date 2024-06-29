@@ -163,6 +163,8 @@ Collection of learning materials and resources about data science, machine learn
 
 * [An introduction to Natural Language Processing (NLP) course](https://github.com/brianspiering/nlp-course)
 
+* [LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n)
+
 ### Reinforcement Learning
 
 * [Practical_RL](https://github.com/yandexdataschool/Practical_RL)
