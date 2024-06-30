@@ -88,6 +88,10 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
 
+### Large Language Model (LLM)
+
+* [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
+
 ### Machine Learning
 
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
