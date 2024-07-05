@@ -829,6 +829,10 @@ Collection of learning materials and resources about data science, machine learn
 * [labml.ai Deep Learning Paper Implementations](https://nn.labml.ai/index.html)
   
   * This is a collection of simple PyTorch implementations of neural networks and related algorithms.
+ 
+* [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
+
+  * llama3 implementation one matrix multiplication at a time.
 
 * [ML Showcase](https://ml-showcase.paperspace.com/)
   
