@@ -157,6 +157,10 @@ Collection of learning materials and resources about data science, machine learn
 
 * [Zero to Mastery Deep Learning with TensorFlow](https://dev.mrdbourke.com/tensorflow-deep-learning/)
 
+### Machine Learning
+
+* [MLU-Explain](https://mlu-explain.github.io/)
+
 ### Natural Language Processing
 
 * [CS224N: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
