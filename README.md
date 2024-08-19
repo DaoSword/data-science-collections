@@ -819,6 +819,10 @@ Collection of learning materials and resources about data science, machine learn
 * [Prodigy](https://prodi.gy/)
   
   * `Prodigy` is a scriptable annotation tool so efficient that data scientists can do the annotation themselves, enabling a new level of rapid iteration.
+ 
+* [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+
+  * `Transformer Explainer` is an interactive visualization tool designed to help anyone learn how Transformer-based models like GPT work.
 
 ## Tutorials
 
