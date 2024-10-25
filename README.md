@@ -24,7 +24,8 @@ Collection of learning materials and resources about data science, machine learn
 
 ## Articles
 
-* [PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
+- [PyTorch Loss Functions: The Ultimate Guide](https://neptune.ai/blog/pytorch-loss-functions)
+
 - [The Transformer Family](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
 
 - [Transformer models: an introduction and catalog - 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
@@ -34,34 +35,36 @@ Collection of learning materials and resources about data science, machine learn
 ## Blogs
 
 - [Brandon Rohrer](https://e2eml.school/)
-* [Chris Albon](https://chrisalbon.com/)
 
-* [Daniel Bourke](https://www.mrdbourke.com/)
+- [Chris Albon](https://chrisalbon.com/)
 
-* [Jay Alammar](https://jalammar.github.io/)
+- [Daniel Bourke](https://www.mrdbourke.com/)
 
-* [Neptune Blog](https://neptune.ai/blog)
+- [Jay Alammar](https://jalammar.github.io/)
 
-* [Paperspace Blog](https://blog.paperspace.com/)
+- [Neptune Blog](https://neptune.ai/blog)
 
-* [Sebastian Ruder](https://ruder.io/)
+- [Paperspace Blog](https://blog.paperspace.com/)
+
+- [Sebastian Ruder](https://ruder.io/)
 
 ## Books
 
 ### Algorithms
 
-* [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) (by Jeff Erickson)
+- [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/#book) (by Jeff Erickson)
 
 ### Deep Learning
 
 - [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)
   
   - A playbook for systematically maximizing the performance of deep learning models.
-* MIT Deep Learning Book: [[Official HTML format](https://www.deeplearningbook.org/)] [[PDF format](https://github.com/janishar/mit-deep-learning-book-pdf)]
+ 
+- MIT Deep Learning Book: [[Official HTML format](https://www.deeplearningbook.org/)] [[PDF format](https://github.com/janishar/mit-deep-learning-book-pdf)]
   
-  * An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
+  - An MIT Press book by Ian Goodfellow and Yoshua Bengio and Aaron Courville.
 
-* [Dive into Deep Learning](https://d2l.ai/)
+- [Dive into Deep Learning](https://d2l.ai/)
   
   * Interactive deep learning book with code, math, and discussions. Implemented with PyTorch, NumPy/MXNet, and TensorFlow
 - [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI](https://github.com/BoltzmannEntropy/interviews.ai)
@@ -84,17 +87,19 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Linear Algebra
 
-* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
+- [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/index.html)
 
-* [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
+- [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
 
 ### Large Language Model (LLM)
 
-* [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
+- [Build a Large Language Model (From Scratch)](https://github.com/rasbt/LLMs-from-scratch)
 
 ### Machine Learning
 
 - [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+
+- [Machine learning from scratch: Derivations in concept and code](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
 - [Machine Learning in Finance: From Theory to Practice](https://github.com/mfrdixon/ML_Finance_Codes)
 
@@ -103,21 +108,22 @@ Collection of learning materials and resources about data science, machine learn
 - [Mathematics for Machine Learning (Sebastian Raschka)](https://sebastianraschka.com/resources/math-for-ml/)
 
 - [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/) [[PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)] [[Code](https://github.com/gerdm/prml)]
-* [Patterns, predictions, and actions: A story about machine learning](https://mlstory.org/)
-  
-  * This graduate textbook on machine learning tells a story of how patterns in data support predictions and consequential actions.
 
-* [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
+- [Patterns, predictions, and actions: A story about machine learning](https://mlstory.org/)
+  
+  - This graduate textbook on machine learning tells a story of how patterns in data support predictions and consequential actions.
+
+- [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
 
 ### Reinforcement Learning
 
-* [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)
+- [Algorithms of Reinforcement Learning](https://sites.ualberta.ca/~szepesva/rlbook.html)
 
 ### Statistics
 
-* [Seeing Theory](https://seeing-theory.brown.edu/)
+- [Seeing Theory](https://seeing-theory.brown.edu/)
   
-  * A visual introduction to probability and statistics.
+  - A visual introduction to probability and statistics.
 
 ## Courses
 
