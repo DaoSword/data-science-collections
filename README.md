@@ -847,6 +847,10 @@ Collection of learning materials and resources about data science, machine learn
 * [llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 
   * llama3 implementation one matrix multiplication at a time.
+ 
+* [LLM Visualization](https://bbycroft.net/llm)
+
+  * A visualization and walkthrough of the LLM algorithm that backs OpenAI's ChatGPT. Explore the algorithm down to every add & multiply, seeing the whole process in action.
 
 * [ML Showcase](https://ml-showcase.paperspace.com/)
   
