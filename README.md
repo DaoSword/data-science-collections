@@ -124,6 +124,10 @@ Collection of learning materials and resources about data science, machine learn
 - [Seeing Theory](https://seeing-theory.brown.edu/)
   
   - A visual introduction to probability and statistics.
+ 
+- [Think Bayes 2](https://allendowney.github.io/ThinkBayes2/index.html)
+
+  - `Think Bayes` is an introduction to Bayesian statistics using computational methods.
 
 ## Courses
 
