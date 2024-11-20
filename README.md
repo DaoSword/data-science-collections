@@ -169,6 +169,8 @@ Collection of learning materials and resources about data science, machine learn
 
 ### Machine Learning
 
+* [Elicit Machine Learning Reading List](https://github.com/elicit/machine-learning-list)
+
 * [MLU-Explain](https://mlu-explain.github.io/)
 
 ### Natural Language Processing
