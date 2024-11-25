@@ -726,6 +726,8 @@ Collection of learning materials and resources about data science, machine learn
 
 - [MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models](https://minigpt-4.github.io/)
 
+- [PySport](https://opensource.pysport.org/)
+
 ## Repositories
 
 * [Awesome](https://github.com/sindresorhus/awesome)
