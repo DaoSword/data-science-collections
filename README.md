@@ -314,6 +314,12 @@ Collection of learning materials and resources about data science, machine learn
   
   * `TensorFlow Decision Forests` (TF-DF) is a collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models. The library is a collection of Keras models and supports classification, regression and ranking.
 
+### Generative AI
+
+* [aisuite](https://github.com/andrewyng/aisuite)
+
+  * Simple, unified interface to multiple Generative AI providers. 
+
 ### Machine Learning
 
 * [AutoX](https://github.com/4paradigm/AutoX)
